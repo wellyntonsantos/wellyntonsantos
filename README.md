@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
 
 <p align="center"> ● Results-oriented, I seek efficient solutions to complex challenges;. <br><br> ● I have a centered mindset, developed through previous experiences that emphasized the importance of understanding people's needs. Committed to providing high quality service and ensuring customer satisfaction.</p>&nbsp;
@@ -75,4 +75,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
