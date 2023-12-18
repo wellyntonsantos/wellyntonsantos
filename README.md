@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wellyntonsantos/wellyntonsantos/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">●	Orientado para resultados, busco soluções eficientes para desafios complexos. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> Orientado para resultados, busco soluções eficientes para desafios complexos. <br><br> Possuo uma mentalidade centrada, desenvolvida através de experiências anteriores que enfatizaram a importância de entender as necessidades das pessoas. Comprometido em oferecer um serviço de alta qualidade e garantir a satisfação do cliente.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wellyntonsantos&theme=radical&mode=weekly" />
